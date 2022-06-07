@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
-    "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "name": "NezukoBot",
+    "version": "3.0.0",
+    "description": "Bot Whatsapp MD",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/BrunoSobrino",
+    "homepage": "https://github.com/AllMightHero",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "Orumaito"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/AllMightHero/NezukoBot-3.0.git"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/AllMightHero/NezukoBot-3.0/issues"
     },
     "license": "MIT",
     "dependencies": {
