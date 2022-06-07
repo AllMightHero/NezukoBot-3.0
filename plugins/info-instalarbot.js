@@ -19,8 +19,8 @@ let text = `
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> git clone https://github.com/AllMightHero/NezukoBot-3.0
+> cd NezukoBot-3.0
 > npm install
 > yarn install 
 > npm install
@@ -30,9 +30,9 @@ let text = `
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝚁𝙱𝙾𝚃',
-body: 'ᴛʜᴇ ᴍʏsᴛᴄ ﹣ ʙᴏᴛ',         
+body: '𝓝𝓮𝔃𝓾𝓴𝓸𝓑𝓸𝓽',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})   
+sourceUrl: `https://github.com/AllMightHero/NezukoBot-3.0`}}})   
 }
 handler.command = /^(instalarbot)/i
 export default handler

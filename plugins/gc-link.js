@@ -4,9 +4,9 @@ let group = m.chat
 conn.reply(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾',
-body: 'ᴛʜᴇ ᴍʏsᴛᴄ ﹣ ʙᴏᴛ',         
+body: '𝓝𝓮𝔃𝓾𝓴𝓸𝓑𝓸𝓽',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})   
+sourceUrl: `https://github.com/AllMightHero/NezukoBot-3.0`}}})   
 }
 handler.help = ['linkgroup']
 handler.tags = ['group']
