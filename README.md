@@ -28,7 +28,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/AllMightHero/NezukoBot-3.0
-> cd NezukoBot-2.0
+> cd NezukoBot-3.0
 > npm install
 > yarn install 
 > npm install
